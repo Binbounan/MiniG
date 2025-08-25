@@ -4,3 +4,5 @@ Genera un pequeño analizador léxico, que identifique los siguientes tokens (id
 
 identificadores = letra(letra|digito)*
 Real = entero.entero+
+
+![EJEMPLO](Generadorlexico.png)
